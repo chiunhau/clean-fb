@@ -1,0 +1,10 @@
+{
+  "name": "Clean FB",
+  "version": "1.0",
+  "description": "Clean FB",
+  "manifest_version": 2,
+  "content_scripts": [{
+    "matches": ["https://*.facebook.com/*"],
+    "css": ["style.css"]
+  }]
+}
