@@ -1,4 +1,4 @@
-Imagine a Facebook without any Likes, comments or share buttons.
+Imagine a Facebook without any Likes, comments, share buttons and notifications.
 
 ## Installation
 1. Download .zip of this repo and unzip it.

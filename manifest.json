@@ -1,14 +1,10 @@
 {
   "name": "Clean FB",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Clean FB",
   "manifest_version": 2,
   "content_scripts": [{
     "matches": ["https://*.facebook.com/*"],
     "css": ["style.css"]
-  }],
-  "icons": { "16": "icon.png",
-              "48": "icon.png",
-              "128": "icon.png" },
-  "permissions": ["webRequest", "https://*.facebook.com/*", "http://*.facebook.com/*"]
+  }]
 }
