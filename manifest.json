@@ -7,5 +7,8 @@
     "matches": ["https://*.facebook.com/*"],
     "css": ["style.css"]
   }],
+  "icons": { "16": "icon.png",
+              "48": "icon.png",
+              "128": "icon.png" },
   "permissions": ["webRequest", "https://*.facebook.com/*", "http://*.facebook.com/*"]
 }
